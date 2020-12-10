@@ -1,0 +1,53 @@
+body {
+background-color: #ffffe6;
+}
+
+a {
+font-size: 20px;
+
+}
+
+h1 {
+	text-align: center;
+	font-size: 75px;
+}
+
+h2 {
+	text-align: center;
+	background-color: pink;
+}
+
+p {
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+ul {
+	font-size: 20px;
+	margin-left: 50px;
+}
+
+.carousel-control-prev, .carousel-control-next {
+	background-color: pink;
+}
+
+.carousel-item {
+	text-align: center;
+}
+
+.container {
+	text-align: center;
+}
+
+.nav-item {
+	background-color: white;
+	
+}
+.nav-link {
+	color: red;
+}
+
+*{
+	font-family: "Georgia", "serif";
+}
